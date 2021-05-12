@@ -1,10 +1,10 @@
 # história da internet
 
 <html>
-<head
-  <title>UM POUCO SOBRE A INTERNET</title>
   </head>
  <h1>COMO FOI CRIADA?</h1>
+ <head
+ <title UM POUCO SOBRE A INTERNET</title>
      <img src=´´download.JPEG´´img>
   <body>
    <font face="Arial"></font26> <br 
