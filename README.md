@@ -3,7 +3,7 @@
 <head>
   <title> UM POUCO SOBRE A INTERNET</title>
 
-    <h1>COMO FOI CRIADA?</h1>
+    <h2>COMO FOI CRIADA?</h2>
     
   <img src= ´´download.JPEG´´ >
   <body>
