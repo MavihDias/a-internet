@@ -10,8 +10,7 @@
   <h1> COMO FOI CRIADA<h1>
   
  <head
- <IMG SRC´´download.JPEG´´>
- <head>
+ <IMG SRC´´download.jpeb´´>
  <body>
   
   <p> A internet foi criada em 1969,nos Estados Unidos.Chamada de Arpanet,tinha como função interligar laboratorios de pesquisa.
