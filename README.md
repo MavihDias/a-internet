@@ -1,8 +1,7 @@
 # a-internet
 <html>
 <head>
-  
-           <b> UM POUCO SOBRE A INTERNET </b>
+  <TITLE> UM POUCO SOBRE A INTERNET</TITLE>
 
     <h1>COMO FOI CRIADA?</h1>
     
