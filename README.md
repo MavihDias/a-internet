@@ -5,7 +5,6 @@
   <head
   <title> UM POUCO SOBRE A INTERNET</title>
  <h1>COMO FOI CRIADA?</h1>
- <head
      <img src=´´download.JPEG´´img>
   <body>
    <font face=´´67Arial"></font2> <br 
