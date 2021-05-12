@@ -2,7 +2,7 @@
 <! DOCTYPE html>
 <html>
 <head>
-                                          <title> <b> UM POUCO SOBRE A INTERNE </b> </title>
+                                          <title> <b> UM POUCO SOBRE A INTERNE </b></title>
 </head>
 <body>
     
@@ -10,7 +10,7 @@
     
   <head>
   <body
-        <img src = ´´a internet´´ >
+        <img src = ´´download.JPEG´´ >
   <body>
      <p> A internet foi criada em 1969, nos Estados Unidos. Chamada de Arpanet, tinha como função interligar laboratórios de pesquisa.
 Naquele ano, um professor da Universidade da Califórnia passou para um amigo em Stanford o primeiro e-mail da história. ...
