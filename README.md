@@ -1,7 +1,7 @@
 # a-internet
 <html>
 <head>
-                                          <title> <b> UM POUCO SOBRE A INTERNE </b></title>
+    <title> <b> UM POUCO SOBRE A INTERNET </b></title>
 </head>
 <body>
     
