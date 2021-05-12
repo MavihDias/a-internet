@@ -2,10 +2,9 @@
 
 <html>
 <head
-  <title>UM POUCO SOBRE A INTERNET <head> </title>
- <head>
-
-    <h1>COMO FOI CRIADA?</h1>
+  <title>UM POUCO SOBRE A INTERNET</title>
+ 
+ <h1>COMO FOI CRIADA?</h1>
     
   <img src=´´download.JPEG´´ >
   <body>
