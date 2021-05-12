@@ -1,9 +1,10 @@
 # a-internet
 <html>
 <head>
-    <title> <b> UM POUCO SOBRE A INTERNET </b>
+    <title
+           <b> UM POUCO SOBRE A INTERNET </b>
 
-    <h1> COMO FOI CRIADA? </h1>
+    <h1>COMO FOI CRIADA?</h1>
     
   <head>
   <body
