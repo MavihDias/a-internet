@@ -2,8 +2,8 @@
 
 <html>
 <head
-  <title>UM POUCO SOBRE A INTERNET </title>
-< head>
+  <title>UM POUCO SOBRE A INTERNET </title
+ head>
 
     <h1>COMO FOI CRIADA?</h1>
     
