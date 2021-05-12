@@ -2,7 +2,7 @@
 
 <html>
 <head>
-  <title UM POUCO SOBRE A INTERNET/title>
+  <title>:UM POUCO SOBRE A INTERNET</title>
 
     <h2>COMO FOI CRIADA?</h2>
     
