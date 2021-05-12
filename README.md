@@ -7,10 +7,10 @@
 <head
       <title>UM POUCO SOBRE A INTERNET</title>
 <head>
-  <h1> COMO FOI CRIADA<h1>
+  <h1> COMO FOI CRIADA?<h1>
   
  <head
- <img src=´´download.jpeb´´>
+ <img src=´´download.jpeg´´>
  <body>
   
   <p> A internet foi criada em 1969,nos Estados Unidos.Chamada de Arpanet,tinha como função interligar laboratorios de pesquisa.
